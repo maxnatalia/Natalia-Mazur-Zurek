@@ -1,6 +1,7 @@
 ### Hi there, I'm Natalia 👋
 ## About me 😎
 * 🔭 Currently working on my [Personal Homepage](https://github.com/maxnatalia/personal-homepage)
+* 👨‍💻 All of my projects are available at my [Personal Homepage](https://github.com/maxnatalia/personal-homepage)
 * 🌱 Learning **TypeScript**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
