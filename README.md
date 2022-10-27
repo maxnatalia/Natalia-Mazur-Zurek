@@ -1,5 +1,5 @@
 ### Hi there, I'm Natalia 👋
-## About me 😎
+### About me 😎
 * 🔭 Currently working on my [Personal Homepage](https://github.com/maxnatalia/personal-homepage)
 * 👨‍💻 All of my projects are available at my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
 * 🌱 Learning **TypeScript**
@@ -21,7 +21,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
-## Other tools and skills: 💪
+### Other tools and skills: 💪
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
