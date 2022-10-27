@@ -1,5 +1,6 @@
-### Hi there, I'm Natalia 👋
-### About me 😎
+# Hi there, I'm Natalia 👋
+
+## About me 😎
 * 🔭 Currently working on my [Personal Homepage](https://github.com/maxnatalia/personal-homepage)
 * 👨‍💻 All of my projects are available at my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
 * 🌱 Learning **TypeScript**
@@ -11,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliamazur1988@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-mazur-%C5%BCurek-136a35254/)
 
-### Languages and Frontend tools: 🛠 
+## Languages and Frontend tools: 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -21,7 +22,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
-### Other tools and skills: 💪
+## Other tools and skills: 💪
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
