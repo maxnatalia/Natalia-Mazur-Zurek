@@ -1,4 +1,4 @@
-### Hi there, I'm Natalia 👋
+#### Hi there, I'm Natalia 👋
 ### About me 😎
 * 🔭 Currently working on my [Personal Homepage](https://github.com/maxnatalia/personal-homepage)
 * 👨‍💻 All of my projects are available at my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
