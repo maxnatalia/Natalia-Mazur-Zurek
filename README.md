@@ -2,11 +2,11 @@
 
 ## About me 😎
 * 🔭 Currently working on my [Personal Homepage](https://github.com/maxnatalia/personal-homepage)
-* 👨‍💻 All of my projects are available at my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
+* 👨‍💻 All of my projects are available on my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
 * 🌱 Learning **TypeScript**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
-* 📸 As a hobby, I'm a plant maniac🌱🌷🌺🌵
+* 🌴 As a hobby, I'm a plant maniac🌱🌷🌺🌵
 * 📫 Reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliamazur1988@gmail.com)
