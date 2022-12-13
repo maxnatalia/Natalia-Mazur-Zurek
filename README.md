@@ -1,7 +1,9 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working with the Team on [Movies Browser](https://github.com/maxnatalia/movies-browser/)
+* 🔭 Currently working on 
+* 🎬 Group project created to practice teamwork [Movies Browser](https://github.com/maxnatalia/movies-browser/)
+* 📑 I'm most proud of [TO DO LIST](https://maxnatalia.github.io/ToDoListReact/#/zadania)
 * 👨‍💻 All of my projects are available on my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
 * 🌱 Learning **TypeScript**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
