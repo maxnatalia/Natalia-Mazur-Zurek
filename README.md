@@ -1,7 +1,7 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working on 
+* 🔭 Currently working on [Easybank - Frontend Mentor Challenge](https://maxnatalia.github.io/easybank-landing-page/)
 * 🎬 Group project created to practice teamwork [Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
 * 📑 I'm most proud of [TO DO LIST](https://maxnatalia.github.io/ToDoListReact/#/zadania)
 * 👨‍💻 All of my projects are available on my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
