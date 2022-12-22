@@ -2,12 +2,18 @@
 
 ## About me 😎
 * 🔭 Currently working on [Easybank - Frontend Mentor Challenge](https://maxnatalia.github.io/easybank-landing-page/)
-* 🎬 Group project created to practice teamwork
-      🎥[DEMO: Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
-      🎞[REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
-* 📑 I'm most proud of 
-       📌[DEMO: TO DO LIST](https://maxnatalia.github.io/ToDoListReact/#/zadania)
-       📌[REPO: TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
+* 🎬 Group project created to practice **teamwork**:
+
+🎥[DEMO: Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
+
+🎞[REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
+
+* 📑 I'm most proud of:
+
+📌[DEMO: TO DO LIST](https://maxnatalia.github.io/ToDoListReact/#/zadania)
+
+📌[REPO: TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
+
 * 👨‍💻 All of my projects are available on my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
 * 🌱 Learning **TypeScript**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
