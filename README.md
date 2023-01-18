@@ -1,7 +1,7 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working on developing skills in JavaScript and React
+* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [DOG-GROOMER](https://github.com/maxnatalia/dog-groomer)🐶
 * 🎬 Group project created to practice **teamwork**:
 
 🎥[DEMO: Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
