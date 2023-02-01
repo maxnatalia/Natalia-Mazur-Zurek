@@ -15,7 +15,7 @@
 📌[REPO: TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
 
 * 👨‍💻 All of my projects are available on my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
-* 🌱 Learning **TypeScript**
+* 🌱 Learning **TypeScript, React Query, SASS**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
 * 🌴 As a hobby, I'm a plant maniac🌱🌷🌺🌵
