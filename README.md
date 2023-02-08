@@ -1,7 +1,7 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [ECOMMERCE](https://github.com/maxnatalia/ecommerce)🪴
+* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
 * 🎬 Group project created to practice **teamwork**:
 
 🎥[DEMO: Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
