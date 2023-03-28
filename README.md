@@ -2,23 +2,23 @@
 
 ## About me 😎
 * 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
+* 📑 I'm most proud of:
+
+    🪐[DEMO: RICK AND MORTY APP](https://maxnatalia.github.io/rick-morty-app/)
+    
+    🪐[REPO: RICK AND MORTY APP](https://github.com/maxnatalia/rick-morty-app)
+    
+    📌[DEMO: TO DO LIST](https://maxnatalia.github.io/ToDoListReact/#/zadania)
+    
+    📌[REPO: TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
+
+* 👨‍💻 All of my projects are available on my ***[Personal Homepage](https://maxnatalia.github.io/personal-homepage/)***
 * 🎬 Group project created to practice **teamwork**:
 
     🎥[DEMO: Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
       
     🎞[REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
 
-* 📑 I'm most proud of:
-
-    📌[DEMO: RICK AND MORTY APP](https://maxnatalia.github.io/rick-morty-app/)
-    
-    📌[REPO: RICK AND MORTY APP](https://github.com/maxnatalia/rick-morty-app)
-    
-    📌[DEMO: TO DO LIST](https://maxnatalia.github.io/ToDoListReact/#/zadania)
-    
-    📌[REPO: TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
-
-* 👨‍💻 All of my projects are available on my [Personal Homepage](https://maxnatalia.github.io/personal-homepage/)
 * 🌱 Learning **TypeScript, React Query, SASS**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
