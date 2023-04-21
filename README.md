@@ -19,7 +19,7 @@
       
     🎞[REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
 
-* 🌱 Learning **TypeScript, React Query, SASS**
+* 🌱 Learning **TypeScript, React Query, SASS, Material UI**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
 * 🌴 As a hobby, I'm a plant maniac🌱🌷🌺🌵
