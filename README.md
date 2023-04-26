@@ -1,7 +1,7 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
+* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴 and [Wallet Control](https://github.com/maxnatalia/wallet-control)💰 
 * 📑 I'm most proud of:
 
     🪐[DEMO: RICK AND MORTY APP](https://maxnatalia.github.io/rick-morty-app/)
