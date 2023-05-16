@@ -1,8 +1,12 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴 and [Wallet Control](https://github.com/maxnatalia/wallet-control)💰 
+* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴 
 * 📑 I'm most proud of:
+
+    👛[DEMO: Wallet Control](https://maxnatalia.github.io/wallet-control/)💰
+
+    👛[REPO: Wallet Control](https://github.com/maxnatalia/wallet-control)💰
 
     🪐[DEMO: RICK AND MORTY APP](https://maxnatalia.github.io/rick-morty-app/)
     
@@ -19,7 +23,7 @@
       
     🎞[REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
 
-* 🌱 Learning **TypeScript, React Query, SASS, Material UI**
+* 🌱 Learning **TypeScript, SASS, Next.js, React Query, Material UI**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
 * 🌴 As a hobby, I'm a plant maniac🌱🌷🌺🌵
