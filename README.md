@@ -1,20 +1,18 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new project [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴 
+* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new projects:
+  
+  📌[Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
+  📌[Dog-Groomer](https://github.com/maxnatalia/dog-groomer)🐶
+  📌[Weather-App](https://github.com/maxnatalia/weather-app)🌤️
+  
 * 📑 I'm most proud of:
 
-    👛[DEMO: Wallet Control](https://maxnatalia.github.io/wallet-control/)💰
-
-    👛[REPO: Wallet Control](https://github.com/maxnatalia/wallet-control)💰
-
-    🪐[DEMO: RICK AND MORTY APP](https://maxnatalia.github.io/rick-morty-app/)
-    
-    🪐[REPO: RICK AND MORTY APP](https://github.com/maxnatalia/rick-morty-app)
-    
-    📌[DEMO: TO DO LIST](https://maxnatalia.github.io/ToDoListReact/#/zadania)
-    
-    📌[REPO: TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
+    👛[WALLET CONTROL](https://github.com/maxnatalia/wallet-control)💰
+    🪐[RICK AND MORTY APP](https://github.com/maxnatalia/rick-morty-app)
+    📌[TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
+    🔢[CURRENCY-CALCULATOR](https://github.com/maxnatalia/currency-calculator-ts)
 
 * 👨‍💻 All of my projects are available on my ***[Personal Homepage](https://maxnatalia.github.io/personal-homepage/)***
 * 🎬 Group project created to practice **teamwork**:
