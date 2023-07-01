@@ -9,9 +9,12 @@
   
 * 📑 I'm most proud of:
 
-    👛[WALLET CONTROL](https://github.com/maxnatalia/wallet-control)💰
+    👛[WALLET CONTROL](https://github.com/maxnatalia/wallet-control)
+  
     🪐[RICK AND MORTY APP](https://github.com/maxnatalia/rick-morty-app)
+  
     📌[TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
+  
     🔢[CURRENCY-CALCULATOR](https://github.com/maxnatalia/currency-calculator-ts)
 
 * 👨‍💻 All of my projects are available on my ***[Personal Homepage](https://maxnatalia.github.io/personal-homepage/)***
@@ -21,7 +24,7 @@
       
     🎞[REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
 
-* 🌱 Learning **TypeScript, SASS, Next.js, React Query, Material UI**
+* 🌱 Learning **TypeScript, React Query, Next.js, SASS, Material UI, Tailwind**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
 * 🌴 As a hobby, I'm a plant maniac🌱🌷🌺🌵
