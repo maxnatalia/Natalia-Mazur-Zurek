@@ -5,7 +5,7 @@
   
   📌[Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
   📌[Dog-Groomer](https://github.com/maxnatalia/dog-groomer)🐶
-  📌[Weather-App](https://github.com/maxnatalia/weather-app)🌤️
+
   
 * 📑 I'm most proud of:
 
@@ -16,6 +16,8 @@
     📌[TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
   
     🔢[CURRENCY-CALCULATOR](https://github.com/maxnatalia/currency-calculator-ts)
+
+    🌤️[Weather-App](https://github.com/maxnatalia/weather-app)
 
 * 👨‍💻 All of my projects are available on my ***[Personal Homepage](https://maxnatalia.github.io/personal-homepage/)***
 * 🎬 Group project created to practice **teamwork**:
@@ -39,8 +41,15 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=ffffff)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=ffffff)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=flat-square&logo=reduxsaga&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=flat-square&logo=mui&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
 ## Other tools and skills: 💪
@@ -48,10 +57,11 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Scrum](https://img.shields.io/badge/-Scrum-325EDC?style=flat-square&logo=Scrum)
-
-
+![Scrum](https://img.shields.io/badge/-Scrum-325EDC?style=flat-square)
+![Team Work](https://img.shields.io/badge/-Team_Work-00A98F?style=flat-square)
