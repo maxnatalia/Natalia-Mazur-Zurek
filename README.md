@@ -17,7 +17,7 @@
   
     🔢[CURRENCY-CALCULATOR](https://github.com/maxnatalia/currency-calculator-ts)
 
-    🌤️[Weather-App](https://github.com/maxnatalia/weather-app)
+    🌤️[WEATHER-APP](https://github.com/maxnatalia/weather-app)
 
 * 👨‍💻 All of my projects are available on my ***[Personal Homepage](https://maxnatalia.github.io/personal-homepage/)***
 * 🎬 Group project created to practice **teamwork**:
