@@ -4,10 +4,10 @@
 * 🔭 Currently working on developing skills in JavaScript and React furthermore I create new projects:
   
   📌[Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
-  📌[Dog-Groomer](https://github.com/maxnatalia/dog-groomer)🐶
-
   
 * 📑 I'm most proud of:
+  
+    🐾[Dog-Groomer](https://github.com/maxnatalia/dog-groomer)🐶
 
     👛[WALLET CONTROL](https://github.com/maxnatalia/wallet-control)
   
@@ -26,7 +26,7 @@
       
     🎞[REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
 
-* 🌱 Learning **TypeScript, React Query, Next.js, SASS, Material UI, Tailwind**
+* 🌱 Learning **Next.js, Testing, Node.js**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
 * 🌴 As a hobby, I'm a plant maniac🌱🌷🌺🌵
