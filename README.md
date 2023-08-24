@@ -3,28 +3,30 @@
 ## About me 😎
 * 🔭 Currently working on developing skills in JavaScript and React furthermore I create new projects:
   
-  📌[Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
+  📌 [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
+
+* 📌 Frontend Mentor Project - [Easybank](https://github.com/maxnatalia/easybank-landing-page)💰
   
 * 📑 I'm most proud of:
   
-    🐾[Dog-Groomer](https://github.com/maxnatalia/dog-groomer)🐶
+    🐾 [Dog-Groomer](https://github.com/maxnatalia/dog-groomer)🐶
 
-    👛[WALLET CONTROL](https://github.com/maxnatalia/wallet-control)
+    👛 [WALLET CONTROL](https://github.com/maxnatalia/wallet-control)
   
-    🪐[RICK AND MORTY APP](https://github.com/maxnatalia/rick-morty-app)
+    🪐 [RICK AND MORTY APP](https://github.com/maxnatalia/rick-morty-app)
   
-    📌[TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
+    📌 [TO DO LIST](https://github.com/maxnatalia/ToDoListReact)
   
-    🔢[CURRENCY-CALCULATOR](https://github.com/maxnatalia/currency-calculator-ts)
+    🔢 [CURRENCY-CALCULATOR](https://github.com/maxnatalia/currency-calculator-ts)
 
-    🌤️[WEATHER-APP](https://github.com/maxnatalia/weather-app)
+    🌤️ [WEATHER-APP](https://github.com/maxnatalia/weather-app)
 
 * 👨‍💻 All of my projects are available on my ***[Personal Homepage](https://maxnatalia.github.io/personal-homepage/)***
 * 🎬 Group project created to practice **teamwork**:
 
-    🎥[DEMO: Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
+    🎥 [DEMO: Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
       
-    🎞[REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
+    🎞 [REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
 
 * 🌱 Learning **Next.js, Testing, Node.js**
 * 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
