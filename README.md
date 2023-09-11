@@ -5,7 +5,10 @@
   
   📌 [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
 
-* 📌 Frontend Mentor Project - [Easybank](https://github.com/maxnatalia/easybank-landing-page)💰
+* 📌 Frontend Mentor Projects:
+  
+  [Easybank](https://github.com/maxnatalia/easybank-landing-page)💰
+  [Multi-Step-Form](https://github.com/maxnatalia/multi-step-form)📑
   
 * 📑 I'm most proud of:
   
