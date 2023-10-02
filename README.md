@@ -9,8 +9,9 @@
   
   [Easybank](https://github.com/maxnatalia/easybank-landing-page)💰
   [Multi-Step-Form](https://github.com/maxnatalia/multi-step-form)📑
+  [Space-Tourism-Website](https://github.com/maxnatalia/space-tourism-website).🪐
   
-* 📑 I'm most proud of:
+* 📑 My other projects:
   
     🐾 [Dog-Groomer](https://github.com/maxnatalia/dog-groomer)🐶
 
@@ -56,6 +57,7 @@
 ![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=flat-square&logo=mui&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF61F6?style=flat-square&logo=framer&logoColor=ffffff).
 
 ## Other tools and skills: 💪
 
