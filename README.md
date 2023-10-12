@@ -13,6 +13,8 @@
   
 * 📑 My other projects:
   
+    🛳️ [BattleShip: Random Routes](https://github.com/maxnatalia/battleship-random-routes)
+  
     🐾 [Dog-Groomer](https://github.com/maxnatalia/dog-groomer)🐶
 
     👛 [WALLET CONTROL](https://github.com/maxnatalia/wallet-control)
