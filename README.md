@@ -1,10 +1,7 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working on developing skills in JavaScript and React furthermore I create new projects:
-  
-  📌 [Plant Maniac](https://github.com/maxnatalia/plant-maniac)🪴
-
+* 🔭 Currently working on developing my skills in **React**.
 * 📌 Frontend Mentor Projects:
   
   [Easybank](https://github.com/maxnatalia/easybank-landing-page)💰
@@ -27,15 +24,13 @@
 
     🌤️ [WEATHER-APP](https://github.com/maxnatalia/weather-app)
 
-* 👨‍💻 All of my projects are available on my ***[Personal Homepage](https://maxnatalia.github.io/personal-homepage/)***
+* 👨‍💻 All of my projects are available on my ***[Personal Homepage](https://maxnatalia.github.io/personal-homepage-ts/)***
 * 🎬 Group project created to practice **teamwork**:
 
     🎥 [DEMO: Movies Browser](https://maxnatalia.github.io/movies-browser/#/movies)
       
     🎞 [REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
 
-* 🌱 Learning **Next.js, Testing, Node.js**
-* 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
 * 👯 Looking for a job as a **Front-End Developer(React)**
 * 🌴 As a hobby, I'm a plant maniac🌱🌷🌺🌵
 * 📫 Reach me with the links below
