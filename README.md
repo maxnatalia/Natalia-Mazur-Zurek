@@ -2,6 +2,7 @@
 
 ## About me 😎
 * 🔭 Currently working on developing my skills in **React**.
+* 👩‍💻 New project I'm currently working on [Pet-Care-Organizer](https://github.com/maxnatalia/pet-care-organizer)🐾
 * 📌 Frontend Mentor Projects:
   
   [Easybank](https://github.com/maxnatalia/easybank-landing-page)💰
