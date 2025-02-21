@@ -1,8 +1,6 @@
 # Hi there, I'm Natalia 👋
 
 ## About me 😎
-* 🔭 Currently working on developing my skills in **React**.
-* 👩‍💻 New project I'm currently working on [Pet-Care-Organizer](https://github.com/maxnatalia/pet-care-organizer)🐾
 * 📌 Frontend Mentor Projects:
   
   [Easybank](https://github.com/maxnatalia/easybank-landing-page)💰
@@ -32,11 +30,10 @@
       
     🎞 [REPO: Movies Browser](https://github.com/maxnatalia/movies-browser)
 
-* 👯 Looking for a job as a **Front-End Developer(React)**
 * 🌴 As a hobby, I'm a plant maniac🌱🌷🌺🌵
 * 📫 Reach me with the links below
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliamazur1988@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliamazurzurek@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-mazur-%C5%BCurek-136a35254/)
 
 ## Languages and Frontend tools: 🛠 
